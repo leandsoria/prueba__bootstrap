@@ -1,0 +1,7 @@
+nav {
+  background-color: red !important;
+}
+
+nav .navbar__list-img {
+  width: 35px;
+}
